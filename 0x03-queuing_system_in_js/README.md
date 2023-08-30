@@ -1,7 +1,6 @@
 # 0x14. Queuing System in JS
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works 
 :bookmark: async | express | javascript | kue | node | queues | redis
 
 ## Resources
@@ -43,4 +42,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 13. Can I have a seat?
 
 ## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+[Kum Jude Bama](https://www.kumjude.quizzy.cm)
